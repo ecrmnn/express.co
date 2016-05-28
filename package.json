@@ -1,6 +1,6 @@
 {
   "name": "express.co",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Use generators with Express 4",
   "main": "index.js",
   "scripts": {
