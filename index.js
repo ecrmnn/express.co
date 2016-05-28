@@ -28,7 +28,3 @@ layer.prototype.handle_request = function handle(req, res, next) {
     next(err);
   }
 }
-
-var express = require('express');
-
-module.exports = express;
