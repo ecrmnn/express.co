@@ -1,6 +1,6 @@
 {
   "name": "express.co",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Use generators with Express 4",
   "main": "index.js",
   "scripts": {
@@ -22,7 +22,7 @@
   },
   "homepage": "https://github.com/ecrmnn/express.co",
   "dependencies": {
-    "co": "^4.6.0",
-    "express": "^4.13.4"
+    "co": "4.x",
+    "express": "4.x"
   }
 }
